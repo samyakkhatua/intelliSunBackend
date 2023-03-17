@@ -1,0 +1,902 @@
+[
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 27.69,
+    "Humidity": 38.73,
+    "Sunlight_Intensity": 8.43,
+    "Current_Generated": 0.14,
+    "Panel_Position": 38,
+    "Panel_Orientation": 270
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 36.07,
+    "Humidity": 69.64,
+    "Sunlight_Intensity": 90.83,
+    "Current_Generated": 8.36,
+    "Panel_Position": 79,
+    "Panel_Orientation": 150
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 26.1,
+    "Humidity": 31.11,
+    "Sunlight_Intensity": 10.34,
+    "Current_Generated": 4.13,
+    "Panel_Position": 7,
+    "Panel_Orientation": 51
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 34.08,
+    "Humidity": 35.12,
+    "Sunlight_Intensity": 4.07,
+    "Current_Generated": 4.68,
+    "Panel_Position": 6,
+    "Panel_Orientation": 36
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 17.69,
+    "Humidity": 55.3,
+    "Sunlight_Intensity": 8.94,
+    "Current_Generated": 6.9,
+    "Panel_Position": 45,
+    "Panel_Orientation": 214
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 31.98,
+    "Humidity": 34.79,
+    "Sunlight_Intensity": 20.93,
+    "Current_Generated": 4.18,
+    "Panel_Position": 90,
+    "Panel_Orientation": 162
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 24.42,
+    "Humidity": 55.11,
+    "Sunlight_Intensity": 52.58,
+    "Current_Generated": 4.33,
+    "Panel_Position": 31,
+    "Panel_Orientation": 89
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 17.8,
+    "Humidity": 65.3,
+    "Sunlight_Intensity": 33.6,
+    "Current_Generated": 1.32,
+    "Panel_Position": 70,
+    "Panel_Orientation": 64
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 30.92,
+    "Humidity": 79.48,
+    "Sunlight_Intensity": 15.05,
+    "Current_Generated": 5.46,
+    "Panel_Position": 6,
+    "Panel_Orientation": 127
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 25.55,
+    "Humidity": 43.74,
+    "Sunlight_Intensity": 77.13,
+    "Current_Generated": 5.92,
+    "Panel_Position": 9,
+    "Panel_Orientation": 140
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 15.12,
+    "Humidity": 38.69,
+    "Sunlight_Intensity": 84.33,
+    "Current_Generated": 5.4,
+    "Panel_Position": 8,
+    "Panel_Orientation": 161
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 29.11,
+    "Humidity": 39.94,
+    "Sunlight_Intensity": 45.93,
+    "Current_Generated": 3.65,
+    "Panel_Position": 84,
+    "Panel_Orientation": 152
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 20.5,
+    "Humidity": 40.27,
+    "Sunlight_Intensity": 15.22,
+    "Current_Generated": 7.91,
+    "Panel_Position": 53,
+    "Panel_Orientation": 212
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 32.13,
+    "Humidity": 43.83,
+    "Sunlight_Intensity": 83.68,
+    "Current_Generated": 4.62,
+    "Panel_Position": 84,
+    "Panel_Orientation": 28
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 23.05,
+    "Humidity": 41.7,
+    "Sunlight_Intensity": 19.77,
+    "Current_Generated": 3.53,
+    "Panel_Position": 3,
+    "Panel_Orientation": 319
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 32.72,
+    "Humidity": 52.73,
+    "Sunlight_Intensity": 55.04,
+    "Current_Generated": 5.54,
+    "Panel_Position": 39,
+    "Panel_Orientation": 351
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 37.95,
+    "Humidity": 36.94,
+    "Sunlight_Intensity": 74.47,
+    "Current_Generated": 9.12,
+    "Panel_Position": 10,
+    "Panel_Orientation": 341
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 20.33,
+    "Humidity": 39.93,
+    "Sunlight_Intensity": 71.5,
+    "Current_Generated": 1.61,
+    "Panel_Position": 8,
+    "Panel_Orientation": 322
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 17.96,
+    "Humidity": 43.91,
+    "Sunlight_Intensity": 79.3,
+    "Current_Generated": 1.6,
+    "Panel_Position": 70,
+    "Panel_Orientation": 325
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 23.31,
+    "Humidity": 48.61,
+    "Sunlight_Intensity": 77.91,
+    "Current_Generated": 4.66,
+    "Panel_Position": 31,
+    "Panel_Orientation": 357
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 34.67,
+    "Humidity": 75.67,
+    "Sunlight_Intensity": 95.06,
+    "Current_Generated": 1.81,
+    "Panel_Position": 74,
+    "Panel_Orientation": 344
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 37.73,
+    "Humidity": 60.33,
+    "Sunlight_Intensity": 72.47,
+    "Current_Generated": 5.6,
+    "Panel_Position": 11,
+    "Panel_Orientation": 28
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 29.41,
+    "Humidity": 54.95,
+    "Sunlight_Intensity": 68.89,
+    "Current_Generated": 4.17,
+    "Panel_Position": 47,
+    "Panel_Orientation": 8
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 35.14,
+    "Humidity": 45.84,
+    "Sunlight_Intensity": 17.97,
+    "Current_Generated": 3.47,
+    "Panel_Position": 66,
+    "Panel_Orientation": 123
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 23.3,
+    "Humidity": 61.81,
+    "Sunlight_Intensity": 46.09,
+    "Current_Generated": 5.39,
+    "Panel_Position": 2,
+    "Panel_Orientation": 92
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 24.83,
+    "Humidity": 54.01,
+    "Sunlight_Intensity": 91.31,
+    "Current_Generated": 5.04,
+    "Panel_Position": 5,
+    "Panel_Orientation": 109
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 22.32,
+    "Humidity": 64.57,
+    "Sunlight_Intensity": 16.76,
+    "Current_Generated": 5.17,
+    "Panel_Position": 6,
+    "Panel_Orientation": 246
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 33.97,
+    "Humidity": 75.87,
+    "Sunlight_Intensity": 39.27,
+    "Current_Generated": 6.59,
+    "Panel_Position": 62,
+    "Panel_Orientation": 312
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 15.81,
+    "Humidity": 73.21,
+    "Sunlight_Intensity": 16.64,
+    "Current_Generated": 6.65,
+    "Panel_Position": 2,
+    "Panel_Orientation": 323
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 35.29,
+    "Humidity": 46.44,
+    "Sunlight_Intensity": 53.13,
+    "Current_Generated": 4.79,
+    "Panel_Position": 88,
+    "Panel_Orientation": 157
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 19.6,
+    "Humidity": 37.91,
+    "Sunlight_Intensity": 49.17,
+    "Current_Generated": 5.63,
+    "Panel_Position": 8,
+    "Panel_Orientation": 340
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 21.37,
+    "Humidity": 47.61,
+    "Sunlight_Intensity": 40.62,
+    "Current_Generated": 4.75,
+    "Panel_Position": 13,
+    "Panel_Orientation": 12
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 33.51,
+    "Humidity": 38.83,
+    "Sunlight_Intensity": 52.25,
+    "Current_Generated": 8.46,
+    "Panel_Position": 89,
+    "Panel_Orientation": 341
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 33.21,
+    "Humidity": 51.79,
+    "Sunlight_Intensity": 3.98,
+    "Current_Generated": 1.36,
+    "Panel_Position": 23,
+    "Panel_Orientation": 205
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 39.73,
+    "Humidity": 55.35,
+    "Sunlight_Intensity": 75.56,
+    "Current_Generated": 7.33,
+    "Panel_Position": 72,
+    "Panel_Orientation": 32
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 30.97,
+    "Humidity": 51.46,
+    "Sunlight_Intensity": 61.87,
+    "Current_Generated": 7.38,
+    "Panel_Position": 52,
+    "Panel_Orientation": 183
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 20.62,
+    "Humidity": 67.8,
+    "Sunlight_Intensity": 77.0,
+    "Current_Generated": 5.11,
+    "Panel_Position": 53,
+    "Panel_Orientation": 247
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 18.15,
+    "Humidity": 42.3,
+    "Sunlight_Intensity": 97.89,
+    "Current_Generated": 3.59,
+    "Panel_Position": 33,
+    "Panel_Orientation": 57
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 18.17,
+    "Humidity": 63.99,
+    "Sunlight_Intensity": 92.4,
+    "Current_Generated": 7.93,
+    "Panel_Position": 66,
+    "Panel_Orientation": 72
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 17.26,
+    "Humidity": 40.81,
+    "Sunlight_Intensity": 0.23,
+    "Current_Generated": 9.25,
+    "Panel_Position": 31,
+    "Panel_Orientation": 114
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 37.82,
+    "Humidity": 48.27,
+    "Sunlight_Intensity": 0.16,
+    "Current_Generated": 0.98,
+    "Panel_Position": 39,
+    "Panel_Orientation": 202
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 32.53,
+    "Humidity": 79.99,
+    "Sunlight_Intensity": 78.55,
+    "Current_Generated": 3.38,
+    "Panel_Position": 78,
+    "Panel_Orientation": 23
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 38.21,
+    "Humidity": 50.72,
+    "Sunlight_Intensity": 13.7,
+    "Current_Generated": 2.51,
+    "Panel_Position": 72,
+    "Panel_Orientation": 153
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 38.62,
+    "Humidity": 40.23,
+    "Sunlight_Intensity": 18.54,
+    "Current_Generated": 8.93,
+    "Panel_Position": 77,
+    "Panel_Orientation": 117
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 38.25,
+    "Humidity": 36.17,
+    "Sunlight_Intensity": 95.14,
+    "Current_Generated": 1.42,
+    "Panel_Position": 76,
+    "Panel_Orientation": 258
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 24.71,
+    "Humidity": 54.33,
+    "Sunlight_Intensity": 74.62,
+    "Current_Generated": 3.89,
+    "Panel_Position": 72,
+    "Panel_Orientation": 240
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 15.29,
+    "Humidity": 59.32,
+    "Sunlight_Intensity": 61.84,
+    "Current_Generated": 9.72,
+    "Panel_Position": 84,
+    "Panel_Orientation": 187
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 25.04,
+    "Humidity": 74.71,
+    "Sunlight_Intensity": 26.43,
+    "Current_Generated": 0.98,
+    "Panel_Position": 57,
+    "Panel_Orientation": 200
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 32.71,
+    "Humidity": 60.02,
+    "Sunlight_Intensity": 29.22,
+    "Current_Generated": 9.47,
+    "Panel_Position": 28,
+    "Panel_Orientation": 97
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 34.08,
+    "Humidity": 39.12,
+    "Sunlight_Intensity": 46.93,
+    "Current_Generated": 4.6,
+    "Panel_Position": 30,
+    "Panel_Orientation": 254
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 17.55,
+    "Humidity": 40.41,
+    "Sunlight_Intensity": 66.25,
+    "Current_Generated": 0.1,
+    "Panel_Position": 2,
+    "Panel_Orientation": 207
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 33.38,
+    "Humidity": 40.99,
+    "Sunlight_Intensity": 7.0,
+    "Current_Generated": 9.9,
+    "Panel_Position": 85,
+    "Panel_Orientation": 77
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 16.03,
+    "Humidity": 31.64,
+    "Sunlight_Intensity": 41.49,
+    "Current_Generated": 1.63,
+    "Panel_Position": 57,
+    "Panel_Orientation": 53
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 38.3,
+    "Humidity": 67.42,
+    "Sunlight_Intensity": 63.32,
+    "Current_Generated": 9.15,
+    "Panel_Position": 25,
+    "Panel_Orientation": 304
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 20.84,
+    "Humidity": 30.35,
+    "Sunlight_Intensity": 97.68,
+    "Current_Generated": 9.09,
+    "Panel_Position": 61,
+    "Panel_Orientation": 297
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 35.76,
+    "Humidity": 65.24,
+    "Sunlight_Intensity": 1.8,
+    "Current_Generated": 0.17,
+    "Panel_Position": 52,
+    "Panel_Orientation": 308
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 25.72,
+    "Humidity": 55.65,
+    "Sunlight_Intensity": 74.17,
+    "Current_Generated": 0.19,
+    "Panel_Position": 54,
+    "Panel_Orientation": 230
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 33.6,
+    "Humidity": 74.57,
+    "Sunlight_Intensity": 21.48,
+    "Current_Generated": 8.51,
+    "Panel_Position": 48,
+    "Panel_Orientation": 270
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 31.26,
+    "Humidity": 58.76,
+    "Sunlight_Intensity": 21.6,
+    "Current_Generated": 1.47,
+    "Panel_Position": 71,
+    "Panel_Orientation": 8
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 28.42,
+    "Humidity": 39.29,
+    "Sunlight_Intensity": 40.1,
+    "Current_Generated": 6.91,
+    "Panel_Position": 15,
+    "Panel_Orientation": 353
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 36.4,
+    "Humidity": 56.43,
+    "Sunlight_Intensity": 38.07,
+    "Current_Generated": 0.27,
+    "Panel_Position": 38,
+    "Panel_Orientation": 159
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 37.78,
+    "Humidity": 39.25,
+    "Sunlight_Intensity": 31.37,
+    "Current_Generated": 7.29,
+    "Panel_Position": 19,
+    "Panel_Orientation": 63
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 25.68,
+    "Humidity": 65.04,
+    "Sunlight_Intensity": 66.17,
+    "Current_Generated": 9.93,
+    "Panel_Position": 5,
+    "Panel_Orientation": 7
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 19.18,
+    "Humidity": 61.9,
+    "Sunlight_Intensity": 71.41,
+    "Current_Generated": 7.65,
+    "Panel_Position": 66,
+    "Panel_Orientation": 48
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 20.2,
+    "Humidity": 38.57,
+    "Sunlight_Intensity": 41.76,
+    "Current_Generated": 8.31,
+    "Panel_Position": 39,
+    "Panel_Orientation": 218
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 25.85,
+    "Humidity": 46.49,
+    "Sunlight_Intensity": 18.14,
+    "Current_Generated": 9.75,
+    "Panel_Position": 47,
+    "Panel_Orientation": 87
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 15.46,
+    "Humidity": 35.04,
+    "Sunlight_Intensity": 65.49,
+    "Current_Generated": 4.19,
+    "Panel_Position": 28,
+    "Panel_Orientation": 204
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 21.87,
+    "Humidity": 33.2,
+    "Sunlight_Intensity": 43.16,
+    "Current_Generated": 8.53,
+    "Panel_Position": 87,
+    "Panel_Orientation": 51
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 36.51,
+    "Humidity": 37.45,
+    "Sunlight_Intensity": 81.57,
+    "Current_Generated": 9.99,
+    "Panel_Position": 63,
+    "Panel_Orientation": 182
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 23.23,
+    "Humidity": 78.2,
+    "Sunlight_Intensity": 98.57,
+    "Current_Generated": 4.69,
+    "Panel_Position": 81,
+    "Panel_Orientation": 167
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 24.56,
+    "Humidity": 69.53,
+    "Sunlight_Intensity": 51.33,
+    "Current_Generated": 0.13,
+    "Panel_Position": 33,
+    "Panel_Orientation": 240
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 19.59,
+    "Humidity": 77.06,
+    "Sunlight_Intensity": 81.54,
+    "Current_Generated": 4.37,
+    "Panel_Position": 7,
+    "Panel_Orientation": 6
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 27.3,
+    "Humidity": 70.64,
+    "Sunlight_Intensity": 72.35,
+    "Current_Generated": 5.64,
+    "Panel_Position": 62,
+    "Panel_Orientation": 113
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 30.84,
+    "Humidity": 75.76,
+    "Sunlight_Intensity": 6.71,
+    "Current_Generated": 2.1,
+    "Panel_Position": 83,
+    "Panel_Orientation": 167
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 39.82,
+    "Humidity": 51.37,
+    "Sunlight_Intensity": 28.48,
+    "Current_Generated": 6.09,
+    "Panel_Position": 68,
+    "Panel_Orientation": 341
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 24.62,
+    "Humidity": 57.06,
+    "Sunlight_Intensity": 81.87,
+    "Current_Generated": 2.42,
+    "Panel_Position": 52,
+    "Panel_Orientation": 317
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 37.15,
+    "Humidity": 39.68,
+    "Sunlight_Intensity": 26.96,
+    "Current_Generated": 4.33,
+    "Panel_Position": 58,
+    "Panel_Orientation": 150
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 24.09,
+    "Humidity": 57.15,
+    "Sunlight_Intensity": 38.95,
+    "Current_Generated": 1.37,
+    "Panel_Position": 77,
+    "Panel_Orientation": 153
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 25.07,
+    "Humidity": 55.65,
+    "Sunlight_Intensity": 25.33,
+    "Current_Generated": 4.49,
+    "Panel_Position": 66,
+    "Panel_Orientation": 155
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 30.19,
+    "Humidity": 35.36,
+    "Sunlight_Intensity": 27.92,
+    "Current_Generated": 7.11,
+    "Panel_Position": 55,
+    "Panel_Orientation": 216
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 16.29,
+    "Humidity": 35.05,
+    "Sunlight_Intensity": 92.16,
+    "Current_Generated": 4.73,
+    "Panel_Position": 60,
+    "Panel_Orientation": 347
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 32.7,
+    "Humidity": 52.58,
+    "Sunlight_Intensity": 53.83,
+    "Current_Generated": 5.96,
+    "Panel_Position": 74,
+    "Panel_Orientation": 282
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 29.02,
+    "Humidity": 72.53,
+    "Sunlight_Intensity": 18.54,
+    "Current_Generated": 0.89,
+    "Panel_Position": 90,
+    "Panel_Orientation": 190
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 29.6,
+    "Humidity": 70.59,
+    "Sunlight_Intensity": 94.08,
+    "Current_Generated": 6.23,
+    "Panel_Position": 11,
+    "Panel_Orientation": 291
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 29.65,
+    "Humidity": 78.64,
+    "Sunlight_Intensity": 58.75,
+    "Current_Generated": 2.44,
+    "Panel_Position": 64,
+    "Panel_Orientation": 114
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 33.04,
+    "Humidity": 72.68,
+    "Sunlight_Intensity": 75.22,
+    "Current_Generated": 9.01,
+    "Panel_Position": 76,
+    "Panel_Orientation": 138
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 29.98,
+    "Humidity": 38.62,
+    "Sunlight_Intensity": 42.07,
+    "Current_Generated": 5.67,
+    "Panel_Position": 45,
+    "Panel_Orientation": 5
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 32.35,
+    "Humidity": 43.29,
+    "Sunlight_Intensity": 79.34,
+    "Current_Generated": 0.94,
+    "Panel_Position": 2,
+    "Panel_Orientation": 334
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 36.09,
+    "Humidity": 37.71,
+    "Sunlight_Intensity": 26.02,
+    "Current_Generated": 7.6,
+    "Panel_Position": 0,
+    "Panel_Orientation": 62
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 39.46,
+    "Humidity": 73.83,
+    "Sunlight_Intensity": 4.67,
+    "Current_Generated": 2.35,
+    "Panel_Position": 16,
+    "Panel_Orientation": 41
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 38.15,
+    "Humidity": 62.07,
+    "Sunlight_Intensity": 81.58,
+    "Current_Generated": 1.13,
+    "Panel_Position": 35,
+    "Panel_Orientation": 101
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 34.06,
+    "Humidity": 34.35,
+    "Sunlight_Intensity": 37.0,
+    "Current_Generated": 4.18,
+    "Panel_Position": 74,
+    "Panel_Orientation": 257
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 26.58,
+    "Humidity": 42.51,
+    "Sunlight_Intensity": 10.17,
+    "Current_Generated": 4.97,
+    "Panel_Position": 71,
+    "Panel_Orientation": 11
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 30.97,
+    "Humidity": 54.18,
+    "Sunlight_Intensity": 36.36,
+    "Current_Generated": 5.41,
+    "Panel_Position": 12,
+    "Panel_Orientation": 219
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 17.02,
+    "Humidity": 41.99,
+    "Sunlight_Intensity": 51.27,
+    "Current_Generated": 9.95,
+    "Panel_Position": 12,
+    "Panel_Orientation": 221
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 21.68,
+    "Humidity": 39.64,
+    "Sunlight_Intensity": 70.45,
+    "Current_Generated": 3.84,
+    "Panel_Position": 29,
+    "Panel_Orientation": 226
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 27.03,
+    "Humidity": 57.06,
+    "Sunlight_Intensity": 52.05,
+    "Current_Generated": 4.92,
+    "Panel_Position": 68,
+    "Panel_Orientation": 343
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 30.79,
+    "Humidity": 35.62,
+    "Sunlight_Intensity": 86.86,
+    "Current_Generated": 6.63,
+    "Panel_Position": 31,
+    "Panel_Orientation": 148
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 36.76,
+    "Humidity": 34.67,
+    "Sunlight_Intensity": 90.98,
+    "Current_Generated": 5.81,
+    "Panel_Position": 8,
+    "Panel_Orientation": 248
+  },
+  {
+    "Timestamp": "2023-03-17 00:22:30",
+    "Temperature": 19.08,
+    "Humidity": 41.5,
+    "Sunlight_Intensity": 48.35,
+    "Current_Generated": 8.37,
+    "Panel_Position": 46,
+    "Panel_Orientation": 148
+  }
+]
