@@ -16,8 +16,6 @@ class InputData(BaseModel):
     temperature: float
     sunlight_intensity: float
     humidity: float
-    orientation: float
-    position: float
 
 
 # Load the dataset from the CSV file
@@ -58,13 +56,18 @@ app.add_middleware(
 @app.post("/predict")
 async def predict(input_data: InputData):
     data_point = pd.DataFrame({'Temperature': input_data.temperature, 'Sunlight_Intensity': input_data.sunlight_intensity,
-                               'Humidity': input_data.humidity, 'Panel_Orientation': input_data.orientation, 'Panel_Position': input_data.position},
-                              index=[0])
+                               'Humidity': input_data.humidity, 'Panel_Orientation': 0, 'Panel_Position': 0}, index=[0])
 
-    current = predict_current(data_point)
+    results = []
+    max_current = 0
+    for orientation in range(0, 360, 10):
+        for position in range(0, 90, 10):
+            data_point['Panel_Orientation'] = orientation
+            data_point['Panel_Position'] = position
+            current = predict_current(data_point)
 
-    return current
-
-@app.get("/")
-def home():
-    return "Server is alive!"
+            if current > max_current:
+                max_current = current
+                results = [{'Panel_Orientation': orientation, 'Panel_Position': position, 'Current_Generated': current}]
+    
+    return results
