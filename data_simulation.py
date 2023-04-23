@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # Define the number of samples to generate
-n_samples = 10000
+n_samples = 10
 
 # Define the ranges of the input variables
 temp_range = (0, 50)              # Temperature in degrees Celsius
@@ -11,7 +11,7 @@ hum_range = (0, 100)              # Humidity as a percentage
 orient_range = (0, 360)           # Panel orientation in degrees
 pos_range = (0, 90)               # Panel position in degrees from the horizontal plane
 
-# Generate random values for the input variables
+# Generate values for the input variables
 temperature = np.random.uniform(low=temp_range[0], high=temp_range[1], size=n_samples)
 sunlight_intensity = np.random.uniform(low=sun_range[0], high=sun_range[1], size=n_samples)
 humidity = np.random.uniform(low=hum_range[0], high=hum_range[1], size=n_samples)
@@ -30,4 +30,4 @@ data = pd.DataFrame({'Temperature': temperature,
                      'Current_Generated': current_generated})
 
 # Save the data to a CSV file
-data.to_csv('data_simulated_10k.csv', index=False)
+data.to_csv('data_simulated_10.csv', index=False)

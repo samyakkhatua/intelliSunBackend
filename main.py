@@ -17,7 +17,6 @@ class InputData(BaseModel):
     sunlight_intensity: float
     humidity: float
 
-
 # Load the dataset from the CSV file
 data = pd.read_csv('data_simulated_10k.csv')
 
